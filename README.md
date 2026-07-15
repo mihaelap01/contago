@@ -3,7 +3,10 @@
 **ContaGo** este o aplicație mobilă modernă, concepută special pentru antreprenorii activi din România (PFA, SRL, freelanceri sau comercianți) care au nevoie de o soluție rapidă, sigură și complet gratuită de facturare direct de pe telefon.
 
 Dacă ești in căutarea unui **program de facturare** simplu, rapid si extrem de sigur, ContaGo îti oferă control complet, fără să depinzi de servere externe.
-[![Descarcă de pe Google Play](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)](LINK_REAL_GOOGLE_PLAY)
+<br>
+<a href="https://play.google.com/store/apps/details?id=ro.practicsoftware.contago&hl=ro">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Descarcă de pe Google Play" height="60">
+</a>
 
 ---
 
