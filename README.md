@@ -14,7 +14,7 @@ Dacă ești in căutarea unui **program de facturare** simplu, rapid si extrem d
 
 Spre deosebire de alte programe de facturare bazate pe cloud, **ContaGo** este o aplicație construită pe principiul *offline-first* și funcționează local pe dispozitivul tău Android:
 * **Securitate deplină:** Datele tale financiare și cele ale clienților tăi nu părăsesc niciodată telefonul mobil. Nu există servere externe care să stocheze aceste informații.
-* **Independență față de internet:** Aplicația necesită conexiune la internet pentru a funcționa, doar pentru momentele în care transmiți facturile în sistemul e-Factura ANAF sau când sistemul Android rulează verificările de securitate obligatorii prin **Play Integrity API**.
+* **Independență față de internet:** Aplicația necesită conexiune la internet pentru a funcționa, doar pentru momentele în care transmiți facturile în sistemul e-Factura ANAF și periodic când sistemul Android rulează verificările de securitate obligatorii prin **Play Integrity API**.
 * **Mobilitate maximă:** Emite facturi în 6 limbi și în orice monedă, oriunde te-ai afla, direct din baza de date locală a telefonului tău.
 
 ---
