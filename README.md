@@ -1,3 +1,35 @@
+# ContaGo
+
+## 🇬🇧 English
+
+ContaGo is a Romanian Android invoicing application designed for freelancers, sole traders and small businesses. Create invoices, receipts and quotes in seconds, send RO e-Invoices (ANAF) directly from your phone, manage customers, inventory and cash flow, and keep your business data securely stored on your device.
+
+## Website
+https://www.contago.ro
+
+## Google Play
+
+<a href="https://play.google.com/store/apps/details?id=ro.practicsoftware.contago&hl=ro">
+  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Descarcă de pe Google Play" height="60">
+</a>
+
+## Features
+
+- Invoice creation
+- Quotes and receipts
+- RO e-Invoice (ANAF)
+- Customer management
+- Inventory management
+- Cash flow tracking
+- Multi-language support
+- PDF export
+  
+> **Disambiguation notice:**
+> **ContaGo** is a registered trademark and a Romanian invoicing software application. It is not associated with the financial term **"contango"**, which refers to a pricing condition in commodity and financial futures markets.
+
+
+## 🇷🇴 Română
+
 # ContaGo - Aplicație de Facturare Android & e-Factura ANAF
 
 **ContaGo** este o aplicație mobilă modernă, concepută special pentru antreprenorii activi din România (PFA, SRL, freelanceri sau comercianți) care au nevoie de o soluție rapidă, sigură și complet gratuită de facturare direct de pe telefon.
