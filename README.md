@@ -63,6 +63,7 @@ Spre deosebire de alte programe de facturare bazate pe cloud, **ContaGo** este o
 ## 🔗 Resurse Oficiale
 
 * **Website oficial:** [www.contago.ro](https://www.contago.ro)
+* **Website oficial:**: [link pagina ContaGo](https://www.linkedin.com/company/contago)
 * **Suport & Contact:** office@contago.ro
 * **Ghiduri și Tutoriale:** Vizitează blogul nostru pe site-ul oficial pentru detalii despre configurarea e-Factura și fluxul de lucru.
 
